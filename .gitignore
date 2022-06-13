@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+!/src/views/MainView.vue
+!/src/components/CommonTag.vue
+!/src/views/User/index.vue
+!/src/views/User/index.vue
